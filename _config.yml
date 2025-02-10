@@ -86,6 +86,19 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Project 1"
+    url: /project-1/
+  - title: "Project 2"
+    url: /project-2/
+  - title: "Project 3"
+    url: /project-3/
+  - title: "About Me"
+    url: /about/
+
 defaults:
   # _posts
   - scope:
